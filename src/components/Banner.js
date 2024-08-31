@@ -63,7 +63,6 @@ export const Banner = () => {
                     </span>
                   </h1>
                   <p>I’m passionate about tackling technical challenges and solving intricate problems. With a relentless work ethic and a talent for puzzle-solving, I excel at finding creative solutions. Let’s work together to take on the toughest challenges, transforming obstacles into opportunities for growth.</p>
-                  <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
                 </div>}
             </TrackVisibility>
           </Col>
