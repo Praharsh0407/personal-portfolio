@@ -47,7 +47,7 @@ export const NavBar = () => {
                             <Nav.Link href="#home" className={activeLink === 'home' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('home')}>Home</Nav.Link>
                             <Nav.Link href="#skills" className={activeLink === 'skills' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('skills')}>Skills</Nav.Link>
                             <Nav.Link href="#projects" className={activeLink === 'projects' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('projects')}>Projects</Nav.Link>
-                            <Nav.Link href="https://drive.google.com/file/d/1eTK1VNOLtJ29Z6yefP4U43UPtEj95G8X/view" target="_blank" rel="noopener noreferrer" className={activeLink === 'Resume/CV' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('Resume/CV')}
+                            <Nav.Link href="https://drive.google.com/file/d/1up5rCDm4fMkphqDU9lfoQroaY3emGBZp/view" target="_blank" rel="noopener noreferrer" className={activeLink === 'Resume/CV' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('Resume/CV')}
                             >
                                 Resume/CV
                             </Nav.Link>
